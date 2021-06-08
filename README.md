@@ -11,7 +11,7 @@
  
 <details>
   <summary> <i> Click! 👉</i> <b> [Kyungtae's github stats]  </b>  </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=ktae23&theme=dracula&show_icons=true&hide=stars,issues" />
+<img src="https://github-readme-stats.vercel.app/api?username=ktae23&theme=tokyonight&show_icons=true&hide=stars,issues" />
 
 </details>
 
