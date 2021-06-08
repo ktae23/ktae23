@@ -11,6 +11,7 @@
 <details>
   <summary> <i> Click! 👉</i> <b> [Github Stats]  </b>  </summary>
 [![Kyungtae's github stats](https://github-readme-stats.vercel.app/api?username=ktae23&show_icons=true)](https://github.com/ktae23/github-readme-stats)
+</details>
 
 
 <!--
