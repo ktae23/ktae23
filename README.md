@@ -6,13 +6,14 @@
 
 배움을 틈틈이 정리하는 블로그도 구경해 주세요.
 
-⚡[![Blog Badge](https://img.shields.io/badge/T Story-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://ktae23.tistory.com/)
+⚡[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://maengdev.tistory.com/)](http://ktae23.tistory.com/)
 
 
 지메일로 연락주세요 :)
 
  📫  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:pktpkt8917@gmail.com)
 
+[![Kyungtae's github stats](https://github-readme-stats.vercel.app/api?username=ktae23&show_icons=true)](https://github.com/ktae23/github-readme-stats)
 
 
 <!--
