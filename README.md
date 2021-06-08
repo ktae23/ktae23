@@ -1,6 +1,7 @@
 ### 안녕하세요~! 👋
 
-자바로 만드는 웹 서비스와 챗봇에 관심이 있구요, 조금씩 조금씩 성장하는 느낌을 살갗으로 느끼는 것을 좋아합니다.🌱
+자바로 만드는 웹 서비스와 챗봇에 관심이 있구요.
+살갗으로 느껴지는 성장을 좋아합니다.🌱
 
 배움을 틈틈이 정리하는 블로그도 구경해 주세요.
 ⚡[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://maengdev.tistory.com/)](http://ktae23.tistory.com/)
