@@ -8,7 +8,7 @@
 지메일로 연락주세요 :)
  📫  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:pktpkt8917@gmail.com)
 <details>
-  <summary> <i>(👉: Click)</i> <b> [Github Stats]  </b>  </summary>
+  <summary> <i> Click! 👉</i> <b> [Github Stats]  </b>  </summary>
 [![Kyungtae's github stats](https://github-readme-stats.vercel.app/api?username=ktae23&show_icons=true)](https://github.com/ktae23/github-readme-stats)
 
 
