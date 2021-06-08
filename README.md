@@ -10,7 +10,7 @@
  📫  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:pktpkt8917@gmail.com)
  
 <details>
-  <summary> <i> Click! 👉</i> <b> [Kyungtae's github stats]  </b>  </summary>
+  <summary>  👉 <b> [Kyungtae's github stats]  </b>  </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ktae23&theme=tokyonight&show_icons=true&hide=stars,issues" />
 
 </details>
