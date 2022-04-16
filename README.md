@@ -14,7 +14,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ktae23&theme=tokyonight&show_icons=true&hide=stars,issues" />
 
-[![solved.ac tier](http:*//mazassumnida.wtf/api/v2/generate_badge?boj=ktae23)](https://solved.ac/ktae23)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ktae23)](https://solved.ac/ktae23)
 
 
 <!--
