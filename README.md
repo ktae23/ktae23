@@ -11,7 +11,7 @@
 지메일로 연락주세요 :)
  📫  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:pktpkt8917@gmail.com)
 
-[노션 이력서](https://www.notion.so/Junior-Server-Developer-b24248ff593c4f249cb75f6d45e49ce4)
+[이력서](https://languid-chord-a1e.notion.site/Junior-Server-Developer-b24248ff593c4f249cb75f6d45e49ce4)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ktae23&theme=tokyonight&show_icons=true&hide=stars,issues" />
 
