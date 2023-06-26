@@ -5,9 +5,12 @@
 <BR/>
 온몸으로 느껴지는 성장을 원합니다.🌱
 <BR/>
+이건 제 이력서구요.
+https://www.notion.so/b24248ff593c4f249cb75f6d45e49ce4?pvs=4
+<BR/>
 틈틈이 배움을 정리하는 블로그도 구경해 주세요.
 ⚡[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://maengdev.tistory.com/)](http://ktae23.tistory.com/)
-
+<BR/>
 지메일로 연락주세요 :)
  📫  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:pktpkt8917@gmail.com)
 
