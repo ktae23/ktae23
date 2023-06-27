@@ -17,7 +17,6 @@
 지메일로 연락주세요 :)
  📫  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:pktpkt8917@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ktae23&theme=tokyonight&show_icons=true&hide=stars,issues" />
 
 <!--
 [![Solved.ac
