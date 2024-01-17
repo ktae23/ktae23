@@ -9,7 +9,7 @@
 <BR/><BR/>
 <BR/><BR/>
 이건 제 이력서구요.
-📑[![Static Badge](https://languid-chord-a1e.notion.site/d46e2e604490446398a50c4c76715c71?pvs=4)
+[📑](https://languid-chord-a1e.notion.site/d46e2e604490446398a50c4c76715c71?pvs=4)
 <BR/><BR/>
 틈틈이 배움을 정리하는 블로그도 구경해 주세요.
 ⚡[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square)](http://ktae23.tistory.com/)
