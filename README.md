@@ -1,18 +1,12 @@
-
-자바로 만드는 웹 서비스를 공부 하고있습니다.
-<BR/><BR/>
-객체 지향과 클린 코드에 대해 배우고 실천하고 있습니다.
-<BR/><BR/>
-요즘은 도메인 주도 설계와 더 나은 테스트, 그리고 서비스 구조에 관심이 있습니다.
-<BR/><BR/>
-온몸으로 느껴지는 성장을 원합니다.🌱
-<BR/><BR/>
-<BR/><BR/>
-이건 제 이력서구요.
-[📑]([https://languid-chord-a1e.notion.site/d46e2e604490446398a50c4c76715c71?pvs=4](https://wistful-buckaroo-230.notion.site/251c8770f35880ae8b8efe9744630a20))
-<BR/><BR/>
-틈틈이 배움을 정리하는 블로그도 구경해 주세요.
-⚡[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square)](http://ktae23.tistory.com/)
+철학을 전공하고, 고객 만족(CS)을 실천하다가 서버를 개발 중입니다.<BR/>
+서비스와 사용자를 이해하고 문제를 해결하는 데 개발의 가치가 있다고 믿습니다.<BR/>
+목표를 달성하기 위해 치열하게 고민하고 시도하며 실패하고, 결국 성공했을 때의 희열을 원합니다.<BR/>
+이를 위해 서비스를 위해 필요한 일을 스스로 찾아내고 일을 만들어내는 개발자가 되기 위해 노력합니다.<BR/>
+기획 요구사항을 단순히 구현하는 개발자가 아니라 코드와 기술 너머, 우리가 해결하고자 하는 문제를 함께 고민하고 도전하는 문제 해결사로 성장하고 싶습니다.<BR/>
+<BR/>
+이건 제 이력서구요.<BR/>
+[📑 이력서](https://wistful-buckaroo-230.notion.site/2acc8770f358806596e8f65673e4e04c)<BR/>
+[📑 경력기술서](https://wistful-buckaroo-230.notion.site/2acc8770f3588075981dcf041477e2b3)<BR/>
 <BR/><BR/>
 지메일로 연락주세요 :)
  📫  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:pktpkt8917@gmail.com)
