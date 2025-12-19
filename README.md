@@ -3,13 +3,10 @@
 목표를 달성하기 위해 치열하게 고민하고 시도하며 실패하고, 결국 성공했을 때의 희열을 원합니다.<BR/>
 이를 위해 서비스를 위해 필요한 일을 스스로 찾아내고 일을 만들어내는 개발자가 되기 위해 노력합니다.<BR/>
 기획 요구사항을 단순히 구현하는 개발자가 아니라 코드와 기술 너머, 우리가 해결하고자 하는 문제를 함께 고민하고 도전하는 문제 해결사로 성장하고 싶습니다.<BR/>
-<BR/>
-이건 제 이력서구요.<BR/>
-[📑 이력서](https://wistful-buckaroo-230.notion.site/2acc8770f358806596e8f65673e4e04c)<BR/>
-[📑 경력기술서](https://wistful-buckaroo-230.notion.site/2acc8770f3588075981dcf041477e2b3)<BR/>
 <BR/><BR/>
-지메일로 연락주세요 :)
- 📫  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:pktpkt8917@gmail.com)
+링크드인으로 연락주세요 :)
+ 📫  www.linkedin.com/in/ktae23
+ 
 
 
 <!--
