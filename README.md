@@ -7,6 +7,21 @@
  📫  www.linkedin.com/in/ktae23
  
 
+---
+
+### 📖 TIL — 학습 기록 저장소
+
+> **[ktae23.github.io/TIL](https://ktae23.github.io/TIL)**
+
+공식 문서와 오픈소스 원본 소스를 직접 읽고 정리한 백엔드 학습 기록입니다. 현재 **530개 문서**.
+각 문서는 `핵심 개념 → 왜 알아야 하는가 → 내부 구현 분석 → 실전 예제 → 정리` 구조로,
+소스 코드를 `파일:줄` 단위로 인용해 내부 구현까지 추적합니다.
+
+| | |
+|---|---|
+| **깊이 있게 다룬 커리큘럼** | [Reactor & WebClient](https://ktae23.github.io/TIL/#reactive%2Fmain%2F01-reactive-streams-flux-mono.md) · [Resilience4j](https://ktae23.github.io/TIL/#resilience4j%2Fmain%2F01-architecture-overview.md) · [Spring Batch](https://ktae23.github.io/TIL/#batch%2Fmain%2F01-spring-batch-fundamentals.md) · [Kafka](https://ktae23.github.io/TIL/#kafka%2Fmain%2F01-kafka-fundamentals.md) · [Redis](https://ktae23.github.io/TIL/#redis%2Fmain%2F01-redis-fundamentals.md) |
+| **주요 영역** | Spring · JPA/Hibernate · Kotlin · MySQL · Redis · Kafka · Docker/K8s · AWS · Observability · DDD/MSA |
+| **저장소** | [github.com/ktae23/TIL](https://github.com/ktae23/TIL) |
 
 <!--
 [![Solved.ac
